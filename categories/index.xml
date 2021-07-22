@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Friv4school</title>
-    <link>/categories/</link>
+    <link>https://friv4.school/categories/</link>
     <description>Recent content in Categories on Friv4school</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://friv4.school/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

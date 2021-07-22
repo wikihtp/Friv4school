@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Friv4school</title>
-    <link>/tags/</link>
+    <link>https://friv4.school/tags/</link>
     <description>Recent content in Tags on Friv4school</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://friv4.school/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adventure</title>
-      <link>/tags/adventure/</link>
+      <link>https://friv4.school/tags/adventure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/adventure/</guid>
+      <guid>https://friv4.school/tags/adventure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arcade</title>
-      <link>/tags/arcade/</link>
+      <link>https://friv4.school/tags/arcade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/arcade/</guid>
+      <guid>https://friv4.school/tags/arcade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Board</title>
-      <link>/tags/board/</link>
+      <link>https://friv4.school/tags/board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/board/</guid>
+      <guid>https://friv4.school/tags/board/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classics</title>
-      <link>/tags/classics/</link>
+      <link>https://friv4.school/tags/classics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/classics/</guid>
+      <guid>https://friv4.school/tags/classics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Junior</title>
-      <link>/tags/junior/</link>
+      <link>https://friv4.school/tags/junior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/junior/</guid>
+      <guid>https://friv4.school/tags/junior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Puzzles</title>
-      <link>/tags/puzzles/</link>
+      <link>https://friv4.school/tags/puzzles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/puzzles/</guid>
+      <guid>https://friv4.school/tags/puzzles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sports</title>
-      <link>/tags/sports/</link>
+      <link>https://friv4.school/tags/sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sports/</guid>
+      <guid>https://friv4.school/tags/sports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategy</title>
-      <link>/tags/strategy/</link>
+      <link>https://friv4.school/tags/strategy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/strategy/</guid>
+      <guid>https://friv4.school/tags/strategy/</guid>
       <description></description>
     </item>
     
